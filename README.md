@@ -2,12 +2,6 @@
 
 > A Game-of-Thrones-themed Bash exercise.
 
-## Set Up
-
-If you're on MacOS, go ahead and open up the Terminal application (found inside Applications > Utilities).
-
-If you're on Windows, you'll need to install a Terminal. The easy way is to install an application called Git Bash which you can download [here](https://git-scm.com/download/win). A better but more difficult to set up option is to set up [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10). WSL2 is my personal preference although both options will work fine.
-
 ## Instructions
 
 You won't need to submit anything on GitHub for this assignment so don't worry about forking this repository.
